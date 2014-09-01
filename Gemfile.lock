@@ -1,11 +1,4 @@
 GIT
-  remote: git://github.com/fabien/spree_simple_inventory.git
-  revision: 06b5cc02ccc56fdf606af56f919a0cc38c745976
-  specs:
-    spree_simple_inventory (1.1)
-      spree_core (>= 0.30.1)
-
-GIT
   remote: git://github.com/spree/spree.git
   revision: c58ba998beacf631089e71ae226039166d675e02
   specs:
